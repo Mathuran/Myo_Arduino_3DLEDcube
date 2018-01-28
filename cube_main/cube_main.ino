@@ -50,6 +50,7 @@ void loop() {
   switch ( myo.getCurrentPose() ) {
     case rest:
       //Stuff for rest gesture
+      CUBE.twoBYtwo(a);
       break;
     case fist:
       //Stuff for fist gesture
@@ -76,7 +77,7 @@ void loop() {
       
       break;
   }
-CUBE.twoBYtwo(a);
+
 }
 
 
