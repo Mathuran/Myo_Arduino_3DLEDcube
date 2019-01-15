@@ -2,6 +2,8 @@
 Myo armBand integration to LEDcube
 
 Picture Links to a Demo of Project.
+![AR](https://github.com/Mathuran/Myo_Arduino_3DLEDcube/blob/master/image.png) 
+
 [![AR](https://www.youtube.com/upload_thumbnail?v=-RblfWB6Sho&t=hqdefault&ts=1547521626031)](https://www.youtube.com/watch?v=-RblfWB6Sho&feature=youtu.be)
 
 
