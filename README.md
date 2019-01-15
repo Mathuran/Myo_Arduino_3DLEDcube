@@ -2,4 +2,4 @@
 Myo armBand integration to LEDcube
 
 Picture Links to a Demo of Project.
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/-RblfWB6Sho&feature/0.jpg)](https://www.youtube.com/watch?v=-RblfWB6Sho&feature=youtu.be)
+[![AR](https://www.youtube.com/upload_thumbnail?v=-RblfWB6Sho&t=hqdefault&ts=1547521626031)](https://www.youtube.com/watch?v=-RblfWB6Sho&feature=youtu.be)
